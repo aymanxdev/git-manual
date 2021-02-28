@@ -32,6 +32,6 @@ jobs:
         with:
           LANG: ar
       - name: Adding README - French
-        uses: dephraiim/translate-readme@main
+        uses: aymanxdev/git-manual@main
         with:
           LANG: fr
