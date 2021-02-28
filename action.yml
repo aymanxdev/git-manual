@@ -6,7 +6,7 @@ description: Translate the Readme to another language
 inputs:
   LANG:
     description: 'The Language you want to translate to'
-    required: false
+    required: true
     default: 'zh-CN'
 
 runs:
